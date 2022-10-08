@@ -39,3 +39,4 @@ end
 gem "faker", "~> 2.18"
 
 gem "active_model_serializers", "~> 0.10.12"
+gem 'ffi', '~> 1.15'
